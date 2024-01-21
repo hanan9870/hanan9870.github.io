@@ -45,7 +45,9 @@ Qistina Amzan's industrial talk on System Development at Credence Company provid
 Participating in the Assemble PC Lab session was a hands-on experience that significantly enhanced my understanding of computer hardware. Connecting components and troubleshooting issues during the practical assembly process not only reinforced theoretical knowledge but also boosted my confidence and skills in working with hardware. Following the lab session, the Assemble PC Quiz served as an effective assessment tool, testing my comprehension of hardware assembly, compatibility, and troubleshooting skills. The quiz highlighted the importance of attention to detail and prompted deeper reflection on the practical aspects of assembling a computer, contributing to a well-rounded learning experience in computer technology.
 
 #### Design Thinking
-The design thinking discusses the key concepts and activities involved
+The design thinking session discussed the key concepts and activities involved in the design thinking process. It emphasized the importance of empathy, defining the problem, ideation, prototyping, and deployment. The document also highlighted the software development lifecycle and research methodology as frameworks for problem-solving. It suggested using tools like empathy mapping and brainstorming to generate ideas and create prototypes for testing. The session mentioned the significance of starting the design process, even if unsure, by picking up materials and building. Overall, the document provided guidance on how to approach design thinking and encouraged a user-centered and iterative approach.
 
+### 📝 Summary
+My educational journey spans various institutions, cultivating a passion for technology and coding. As a former Head of Academic Affairs at Khartoum University's Students Club and a participant in cultural events, I bring a diverse perspective to my software development journey.
 
 
