@@ -1,53 +1,31 @@
-## 👩‍💻 Software Engineering Student | Coding Enthusiast | Explorer of Tech Realms 🚀
+# About Me
+I am a computer science student with a deep interest in data science and artificial intelligence.
 
-### 🎓 Education
-- 🏫 Universiti Teknologi Malaysia, Software Engineering (Current)
-- 🏢 Khartoum University, Department of Mathematics (1 year)
-- 🏫 Omdurman Public School, Secondary Education (1 year)
-- 🏫 Alraith Public School, Primary, Middle, and Secondary Education (11 years)
+## Core
+- *Education*
+  - Bachelor of Software Engineering, University Technology Malaysia (Current)
+  - Al Neel High School for Girls – Primary Education
+  - Golden Private School – Primary and Middle Education
+- *Skills*
+  - C++ Programming
+  - Python Programming
 
-### 💻 Skills
-- **Programming:** Java, C++
-- **Web Development:** HTML, CSS, JavaScript
-- **Design:** Adobe Illustrator
+## Recommended
+- *Courses*
+  - Public Speaking Course
 
-### 📚 Courses
-- 🚀 Learn C++ Programming - Beginner to Advance - Deep Dive in C++ by Abdul Bari
-- 🌐 The Complete 2024 Web Development Bootcamp by Dr. Angela Yu
+## Additional
+- *Honors and Awards*
+  - Silver Member in Arabic Culture Day
+  - Silver Member in Culture Corner Day
 
-### 🏆 Awards
-- 🥈 Silver Member in Arabic Culture Day
-- 🥈 Silver Member in Culture Corner Day
-- 🥇 Golden Member in Sudanese Fasting
+## Assignments
+| Assignment | PDF |
+|------------|-----|
+| Assignment 1 | [Assignment 1 Report](/mnt/data/Assignment 1.pdf) |
+| Assignment 2 | [Assignment 2 Poster](/mnt/data/Assignment 2.pdf) |
+| Assignment 3 | [Assignment 3 Video](/mnt/data/Assignment 3.pdf) |
+| Assignment 4 | [Assignment 4 Report](/mnt/data/Assignment 4.pdf) |
 
-### 📎 Assignments
-| Assignment | Link |
-|------------|------|
-| Assignment 4 | [View](https://drive.google.com/file/d/14dd6rku5fvDE_rFrmCY5lwkWt213tHKD/view?usp=drive_link) |
-| Assignment 3 | [View](https://drive.google.com/file/d/1J8Q3ajjHbOb9EqFu0m6chsH5dvZ98mkn/view?usp=drive_link) |
-| Assignment 2 | [View](https://drive.google.com/file/d/1j3ZKq50Dvd7wHSu1FPMvtdg3Y) |
-| Assignment 1 | [View](https://drive.google.com/file/d/1H84evvFw7Fshnx6oDCI6iXXlMNaF9jRf/view?usp=drive_link) |
-
-### A. Reflections on Assignments
-#### Reflection on NALI 2023 Program at UTM University
-Participation in the NALI 2023 program at UTM University proved to be an enriching experience. The program, focused on science and technology projects, facilitated real-world engagement, allowing students to bridge the gap between theoretical knowledge and practical applications. The activities positively impacted learning, offering exposure to industry experts, enhancing comprehension of course content, instilling curiosity in cutting-edge technologies, and sparking enthusiasm for continuous exploration. The effectiveness of visiting NALI 2023 and interview sessions was highlighted, emphasizing the program's success in making the learning journey meaningful and inspiring.
-
-#### Reflection on Industrial Talk1: "Overview Of ICT Jobs In Clarity TechWorks"
-The industrial talk provided valuable insights into various tech industry professions at Clarity TechWorks. The CEO and professionals from different roles shared their experiences, emphasizing interpersonal skills, essential developer skills, work-life balance, the importance of a software engineering degree, and realistic views on web development challenges. The comprehensive overview offered valuable insights for those seeking careers in ICT, providing a well-rounded understanding of roles, skills, responsibilities, and personal journeys within Clarity TechWorks.
-
-#### Reflection on Industrial Visit to UTM Digital
-The industrial visit to UTM Digital left a lasting impact on participants. It offered benefits by exposing students to real-world scenarios and practical applications of digital media concepts, bridging the gap between theory and practice. The visit influenced course outcomes by contextualizing theoretical concepts within the agency's operations, enriching the learning experience and fostering a more comprehensive understanding. The visit also provided impactful knowledge, sparked excitement for the digital domain, and significantly enhanced the understanding of the course material through tangible references and real-world applications.
-
-#### Reflection on Qistina Amzan's Industrial Talk on System Development at Credence Company
-Qistina Amzan's industrial talk on System Development at Credence Company provided insights into the analytics industry, its significance, career opportunities, and the cutting-edge tools used in the company. The talk emphasized the potential growth and impact of analytics in the current business landscape, highlighting the importance of understanding a company's values and atmosphere for professionals seeking a fulfilling career.
-
-#### PC Assemble
-Participating in the Assemble PC Lab session was a hands-on experience that significantly enhanced my understanding of computer hardware. Connecting components and troubleshooting issues during the practical assembly process not only reinforced theoretical knowledge but also boosted my confidence and skills in working with hardware. Following the lab session, the Assemble PC Quiz served as an effective assessment tool, testing my comprehension of hardware assembly, compatibility, and troubleshooting skills. The quiz highlighted the importance of attention to detail and prompted deeper reflection on the practical aspects of assembling a computer, contributing to a well-rounded learning experience in computer technology.
-
-#### Design Thinking
-The design thinking session discussed the key concepts and activities involved in the design thinking process. It emphasized the importance of empathy, defining the problem, ideation, prototyping, and deployment. The document also highlighted the software development lifecycle and research methodology as frameworks for problem-solving. It suggested using tools like empathy mapping and brainstorming to generate ideas and create prototypes for testing. The session mentioned the significance of starting the design process, even if unsure, by picking up materials and building. Overall, the document provided guidance on how to approach design thinking and encouraged a user-centered and iterative approach.
-
-### 📝 Summary
-My educational journey spans various institutions, cultivating a passion for technology and coding. As a former Head of Academic Affairs at Khartoum University's Students Club and a participant in cultural events, I bring a diverse perspective to my software development journey.
-
-
+## Summary
+Throughout my learning journey, starting from high school, I have actively participated in various events related to AI and technology. My goal is to continue exploring and expanding my knowledge in these fields.
